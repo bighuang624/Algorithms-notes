@@ -7,7 +7,7 @@ import algs4.*;
  * 二分查找
  * @author huang
  */
-public class BinarySearch_1_1_10 {
+public class BinarySearch {
 
     public static int rank(int key, int[] a) {
         // 数组必须有序
