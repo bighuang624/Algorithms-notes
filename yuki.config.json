@@ -4,6 +4,7 @@
     "index": "https://github.com/bighuang624/Algorithms-notes",
     "branch": "master"
   },
+  "startLevel": 2,
   "ignore": {
     "dir": [".git"],
     "extname": [".json"],
@@ -14,6 +15,13 @@
       ".DS_Store"
     ]
   },
+  "prefix": [{
+      "content": "[![作者](https:\//img.shields.io\/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg)](http:\//kyonhuang.top)"
+    }, {
+      "title": "目录",
+      "level": "2"
+    }
+  ],
   "append": [{
       "title": "维护",
       "level": "2",
