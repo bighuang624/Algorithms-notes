@@ -4,7 +4,6 @@
 [![作者](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg)](http://kyonhuang.top)
 
 ## 目录
-
 * [每一节可以再看一遍的题.md](https://github.com/bighuang624/Algorithms-notes/blob/master/每一节可以再看一遍的题.md)
 * [相关问题解决方法.md](https://github.com/bighuang624/Algorithms-notes/blob/master/相关问题解决方法.md)
 
@@ -78,8 +77,6 @@
 * [VisualAccumulator.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/VisualAccumulator.java)
 * [VisualAccumulatorTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/VisualAccumulatorTest.java)
 * [WhiteList.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/WhiteList.java)
-* [in1.txt](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/in1.txt)
-* [in2.txt](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/in2.txt)
 
 ### chapter1_3_Bags_Queues_Stacks
 * [ResizingArrayStack.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_3_Bags_Queues_Stacks/ResizingArrayStack.java)
