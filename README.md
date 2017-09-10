@@ -1,13 +1,15 @@
-
 # 《算法（第4版）》笔记及代码
 
 [![作者](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg)](http://kyonhuang.top)
 
 ## 目录
-* [每一节可以再看一遍的题.md](https://github.com/bighuang624/Algorithms-notes/blob/master/每一节可以再看一遍的题.md)
-* [相关问题解决方法.md](https://github.com/bighuang624/Algorithms-notes/blob/master/相关问题解决方法.md)
+
+* [《1.3 背包、队列和栈》](https://github.com/bighuang624/Algorithms-notes/blob/master/1.3 背包、队列和栈.md)
+* [《每一节可以再看一遍的题》](https://github.com/bighuang624/Algorithms-notes/blob/master/每一节可以再看一遍的题.md)
+* [《相关问题解决方法》](https://github.com/bighuang624/Algorithms-notes/blob/master/相关问题解决方法.md)
 
 ### algs4
+
 * [Alphabet.java](https://github.com/bighuang624/Algorithms-notes/blob/master/algs4/Alphabet.java)
 * [Bag.java](https://github.com/bighuang624/Algorithms-notes/blob/master/algs4/Bag.java)
 * [BinarySearch.java](https://github.com/bighuang624/Algorithms-notes/blob/master/algs4/BinarySearch.java)
@@ -39,6 +41,7 @@
 * [StdRandom.java](https://github.com/bighuang624/Algorithms-notes/blob/master/algs4/StdRandom.java)
 
 ### chapter1_1_Programming_Model
+
 * [BinarySearch.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_1_Programming_Model/BinarySearch.java)
 * [BouncingBall.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_1_Programming_Model/BouncingBall.java)
 * [Ex1.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_1_Programming_Model/Ex1.java)
@@ -65,6 +68,7 @@
 * [StdDrawTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_1_Programming_Model/StdDrawTest.java)
 
 ### chapter1_2_Data_Abstraction
+
 * [Accumulator.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/Accumulator.java)
 * [AccumulatorTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/AccumulatorTest.java)
 * [Cat.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/Cat.java)
@@ -79,7 +83,15 @@
 * [WhiteList.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_2_Data_Abstraction/WhiteList.java)
 
 ### chapter1_3_Bags_Queues_Stacks
+
 * [ResizingArrayStack.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_3_Bags_Queues_Stacks/ResizingArrayStack.java)
+
+### chapter1_4_Analysis_of_Algorithms
+
+* [DoublingTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/DoublingTest.java)
+* [Stopwatch.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/Stopwatch.java)
+* [StopwatchTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/StopwatchTest.java)
+* [ThreeSum.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/ThreeSum.java)
 
 ## 维护
 
@@ -88,3 +100,4 @@
 ## 参考资料
 
 [算法（第4版）课后练习答案及相关问题解决方案 - 孙强Jimmy的技术博客 - CSDN博客](http://blog.csdn.net/u013541140/article/details/53222770)
+

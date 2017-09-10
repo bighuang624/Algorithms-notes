@@ -7,7 +7,7 @@
   "startLevel": 2,
   "ignore": {
     "dir": [".git"],
-    "extname": [".json"],
+    "extname": [".txt"],
     "file": [
       "yuki.config.json",
       ".gitignore",
@@ -15,6 +15,13 @@
       ".DS_Store"
     ]
   },
+  "format": [
+    {
+      "extname": ".md",
+      "withoutExt": true,
+      "withBookmark": true
+    }
+  ],
   "prefix": [{
       "content": "[![作者](https:\//img.shields.io\/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg)](http:\//kyonhuang.top)"
     }, {
