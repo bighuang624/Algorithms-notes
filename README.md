@@ -4,8 +4,6 @@
 
 ## 目录
 
-* [《1.3_背包、队列和栈》](https://github.com/bighuang624/Algorithms-notes/blob/master/1.3_背包、队列和栈.md)
-* [《1.4_算法分析》](https://github.com/bighuang624/Algorithms-notes/blob/master/1.4_算法分析.md)
 * [《每一节可以再看一遍的题》](https://github.com/bighuang624/Algorithms-notes/blob/master/每一节可以再看一遍的题.md)
 * [《相关问题解决方法》](https://github.com/bighuang624/Algorithms-notes/blob/master/相关问题解决方法.md)
 
@@ -93,6 +91,11 @@
 * [Stopwatch.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/Stopwatch.java)
 * [StopwatchTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/StopwatchTest.java)
 * [ThreeSum.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/ThreeSum.java)
+
+### 笔记
+
+* [《1.3_背包、队列和栈》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.3_背包、队列和栈.md)
+* [《1.4_算法分析》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.4_算法分析.md)
 
 ## 维护
 
