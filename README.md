@@ -87,15 +87,22 @@
 
 ### chapter1_4_Analysis_of_Algorithms
 
+* [DoublingRatio.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/DoublingRatio.java)
 * [DoublingTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/DoublingTest.java)
 * [Stopwatch.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/Stopwatch.java)
 * [StopwatchTest.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/StopwatchTest.java)
 * [ThreeSum.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_4_Analysis_of_Algorithms/ThreeSum.java)
 
+### chapter1_5_Case_Study_Union_Find
+
+* [UF.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_5_Case_Study_Union_Find/UF.java)
+* [WeightedQuickUnionUF.java](https://github.com/bighuang624/Algorithms-notes/blob/master/chapter1_5_Case_Study_Union_Find/WeightedQuickUnionUF.java)
+
 ### 笔记
 
 * [《1.3_背包、队列和栈》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.3_背包、队列和栈.md)
 * [《1.4_算法分析》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.4_算法分析.md)
+* [《1.5_案例研究：union-find算法》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.5_案例研究：union-find算法.md)
 
 ## 维护
 
