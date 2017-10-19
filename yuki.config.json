@@ -6,7 +6,7 @@
   },
   "startLevel": 2,
   "ignore": {
-    "dir": [".git"],
+    "dir": [".git", "code"],
     "extname": [".txt"],
     "file": [
       "yuki.config.json",
@@ -30,6 +30,10 @@
     }
   ],
   "append": [{
+      "title": "代码",
+      "level": 2,
+      "content": "相关代码详见[代码目录](https://github.com/bighuang624/Algorithms-notes/blob/master/code)"
+    }, {
       "title": "维护",
       "level": 2,
       "content": "本文档由 [yuki](https://github.com/bighuang624/yuki) 维护"

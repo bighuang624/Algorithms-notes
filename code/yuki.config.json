@@ -1,0 +1,18 @@
+{
+  "title": "代码目录",
+  "repository": {
+    "index": "https://github.com/bighuang624/Algorithms-notes",
+    "branch": "master/code"
+  },
+  "startLevel": 2,
+  "ignore": {
+    "dir": [".git"],
+    "extname": [".md"],
+    "file": [
+      "yuki.config.json",
+      ".gitignore",
+      "README.md",
+      ".DS_Store"
+    ]
+  }
+}
