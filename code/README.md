@@ -112,6 +112,12 @@
 
 ### chapter4_2_Directed_Graphs
 
+* [DepthFirstOrder.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/DepthFirstOrder.java)
 * [Digraph.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/Digraph.java)
+* [DirectedCycle.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/DirectedCycle.java)
 * [DirectedDFS.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/DirectedDFS.java)
+* [KosarajuSCC.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/KosarajuSCC.java)
+* [SymbolDigraph.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/SymbolDigraph.java)
+* [Topological.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/Topological.java)
+* [TransitiveClosure.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_2_Directed_Graphs/TransitiveClosure.java)
 
