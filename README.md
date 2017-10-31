@@ -14,6 +14,7 @@
 * [《1.5_案例研究：union-find算法》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.5_案例研究：union-find算法.md)
 * [《4.1_无向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.1_无向图.md)
 * [《4.2_有向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.2_有向图.md)
+* [《4.3_最小生成树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.3_最小生成树.md)
 
 ## 代码
 
