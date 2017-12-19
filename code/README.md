@@ -94,6 +94,13 @@
 * [UF.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter1_5_Case_Study_Union_Find/UF.java)
 * [WeightedQuickUnionUF.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter1_5_Case_Study_Union_Find/WeightedQuickUnionUF.java)
 
+### chapter2_1_Elementary_Sorts
+
+* [Insertion.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_1_Elementary_Sorts/Insertion.java)
+* [Selection.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_1_Elementary_Sorts/Selection.java)
+* [Shell.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_1_Elementary_Sorts/Shell.java)
+* [SortCompare.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_1_Elementary_Sorts/SortCompare.java)
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)
@@ -130,4 +137,12 @@
 * [PrimMST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_3_Minimum_Spanning_Tree/PrimMST.java)
 * [TestMST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_3_Minimum_Spanning_Tree/TestMST.java)
 * [UF.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_3_Minimum_Spanning_Tree/UF.java)
+
+### chapter4_4_Shortest_Paths
+
+* [DijkstraSP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/DijkstraSP.java)
+* [DirectedEdge.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/DirectedEdge.java)
+* [EdgeWeightedDigraph.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/EdgeWeightedDigraph.java)
+* [SP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/SP.java)
+* [TestSP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/TestSP.java)
 
