@@ -101,6 +101,11 @@
 * [Shell.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_1_Elementary_Sorts/Shell.java)
 * [SortCompare.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_1_Elementary_Sorts/SortCompare.java)
 
+### chapter2_2_Mergesort
+
+* [Merge.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_2_Mergesort/Merge.java)
+* [MergeBU.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_2_Mergesort/MergeBU.java)
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)

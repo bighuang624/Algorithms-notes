@@ -4,6 +4,7 @@
 
 ## 目录
 
+* [package.json](https://github.com/bighuang624/Algorithms-notes/blob/master/package.json)
 * [《每一节可以再看一遍的题》](https://github.com/bighuang624/Algorithms-notes/blob/master/每一节可以再看一遍的题.md)
 * [《相关问题解决方法》](https://github.com/bighuang624/Algorithms-notes/blob/master/相关问题解决方法.md)
 
@@ -13,6 +14,8 @@
 * [《1.4_算法分析》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.4_算法分析.md)
 * [《1.5_案例研究：union-find算法》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/1.5_案例研究：union-find算法.md)
 * [《2.1_初级排序算法》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.1_初级排序算法.md)
+* [《2.2_归并排序》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.2_归并排序.md)
+* [《2.3_快速排序》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.3_快速排序.md)
 * [《4.1_无向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.1_无向图.md)
 * [《4.2_有向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.2_有向图.md)
 * [《4.3_最小生成树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.3_最小生成树.md)
