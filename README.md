@@ -4,7 +4,6 @@
 
 ## 目录
 
-* [package.json](https://github.com/bighuang624/Algorithms-notes/blob/master/package.json)
 * [《每一节可以再看一遍的题》](https://github.com/bighuang624/Algorithms-notes/blob/master/每一节可以再看一遍的题.md)
 * [《相关问题解决方法》](https://github.com/bighuang624/Algorithms-notes/blob/master/相关问题解决方法.md)
 

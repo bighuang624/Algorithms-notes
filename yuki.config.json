@@ -9,6 +9,7 @@
     "dir": [".git", "code"],
     "extname": [".txt"],
     "file": [
+      "package.json",
       "yuki.config.json",
       ".gitignore",
       "README.md",
