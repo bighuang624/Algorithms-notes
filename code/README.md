@@ -106,6 +106,12 @@
 * [Merge.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_2_Mergesort/Merge.java)
 * [MergeBU.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_2_Mergesort/MergeBU.java)
 
+### chapter2_3_Quicksort
+
+* [Ex25.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_3_Quicksort/Ex25.java)
+* [Quick.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_3_Quicksort/Quick.java)
+* [Quick3way.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_3_Quicksort/Quick3way.java)
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)
