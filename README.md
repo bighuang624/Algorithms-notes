@@ -15,6 +15,8 @@
 * [《2.1_初级排序算法》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.1_初级排序算法.md)
 * [《2.2_归并排序》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.2_归并排序.md)
 * [《2.3_快速排序》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.3_快速排序.md)
+* [《2.4_优先队列》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.4_优先队列.md)
+* [《2.5_应用》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/2.5_应用.md)
 * [《4.1_无向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.1_无向图.md)
 * [《4.2_有向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.2_有向图.md)
 * [《4.3_最小生成树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.3_最小生成树.md)
