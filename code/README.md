@@ -120,6 +120,12 @@
 ### chapter2_5_Sorting_Applications
 
 
+### chapter3_1_Symbol_Tables
+
+* [BinarySearchST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_1_Symbol_Tables/BinarySearchST.java)
+* [FrequencyCounter.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_1_Symbol_Tables/FrequencyCounter.java)
+* [SequentialSearchST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_1_Symbol_Tables/SequentialSearchST.java)
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)
