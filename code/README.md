@@ -112,6 +112,14 @@
 * [Quick.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_3_Quicksort/Quick.java)
 * [Quick3way.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_3_Quicksort/Quick3way.java)
 
+### chapter2_4_Priority_Queues
+
+* [MaxPQ.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_4_Priority_Queues/MaxPQ.java)
+* [TopM.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter2_4_Priority_Queues/TopM.java)
+
+### chapter2_5_Sorting_Applications
+
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)
