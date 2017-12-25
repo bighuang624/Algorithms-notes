@@ -126,6 +126,10 @@
 * [FrequencyCounter.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_1_Symbol_Tables/FrequencyCounter.java)
 * [SequentialSearchST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_1_Symbol_Tables/SequentialSearchST.java)
 
+### chapter3_2_Binary_Search_Trees
+
+* [BST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_2_Binary_Search_Trees/BST.java)
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)
