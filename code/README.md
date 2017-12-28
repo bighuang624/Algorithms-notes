@@ -135,6 +135,11 @@
 * [LinearProbingHashST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_4_Hash_Tables/LinearProbingHashST.java)
 * [SeparateChainingHashST.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_4_Hash_Tables/SeparateChainingHashST.java)
 
+### chapter3_5_Searching_Applications
+
+* [SparseVector.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_5_Searching_Applications/SparseVector.java)
+* [WhiteFilter.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter3_5_Searching_Applications/WhiteFilter.java)
+
 ### chapter4_1_Undirected_Graphs
 
 * [BreadthFirstPaths.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_1_Undirected_Graphs/BreadthFirstPaths.java)

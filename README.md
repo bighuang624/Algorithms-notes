@@ -21,6 +21,7 @@
 * [《3.2_二叉查找树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/3.2_二叉查找树.md)
 * [《3.3_平衡查找树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/3.3_平衡查找树.md)
 * [《3.4_散列表》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/3.4_散列表.md)
+* [《3.5_应用》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/3.5_应用.md)
 * [《4.1_无向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.1_无向图.md)
 * [《4.2_有向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.2_有向图.md)
 * [《4.3_最小生成树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.3_最小生成树.md)

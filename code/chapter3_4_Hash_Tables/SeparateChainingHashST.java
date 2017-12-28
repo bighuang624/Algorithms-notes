@@ -1,5 +1,8 @@
 package chapter3_4_Hash_Tables;
 
+import java.util.Iterator;
+
+import algs4.Queue;
 import chapter3_1_Symbol_Tables.SequentialSearchST;
 
 @SuppressWarnings("unchecked")
@@ -32,7 +35,11 @@ public class SeparateChainingHashST<Key, Value> {
         st[hash(key)].put(key, val);
     }
     
-//    public Iterable<Key> keys() {
-//        
-//    }
+    public Iterable<Key> keys() {
+        Queue<Key> queue = new Queue<>();
+        for(int i = 0; i < M; i++)
+            for(Iterator<Key> iter = (Iterator<Key>) st[i].keys(); iter.hasNext();)
+                queue.enqueue(iter.next());
+        return queue;
+    }
 }

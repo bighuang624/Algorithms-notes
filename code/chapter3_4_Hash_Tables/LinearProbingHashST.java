@@ -1,5 +1,7 @@
 package chapter3_4_Hash_Tables;
 
+import algs4.Queue;
+
 @SuppressWarnings("unchecked")
 public class LinearProbingHashST<Key, Value> {
     private int N;    // 符号表中键值对的总数
@@ -16,6 +18,10 @@ public class LinearProbingHashST<Key, Value> {
         this.M = cap;
         keys = (Key[]) new Object[M];
         vals = (Value[]) new Object[M];
+    }
+    
+    public int size() {
+        return this.M;
     }
     
     private int hash(Key key) {
@@ -80,4 +86,13 @@ public class LinearProbingHashST<Key, Value> {
         if(N > 0 && N == M/8)
             resize(M/2);
     }
+    
+    public Iterable<Key> keys() {
+        Queue<Key> queue = new Queue<Key>();
+        for(int i = 0; i < M; i++)
+            if(keys[i] != null)
+                queue.enqueue(keys[i]);
+        return queue;
+    }
+    
 }
