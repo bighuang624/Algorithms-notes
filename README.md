@@ -26,6 +26,7 @@
 * [《4.2_有向图》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.2_有向图.md)
 * [《4.3_最小生成树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.3_最小生成树.md)
 * [《4.4_最短路径》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/4.4_最短路径.md)
+* [《5.2_单词查找树》](https://github.com/bighuang624/Algorithms-notes/blob/master/笔记/5.2_单词查找树.md)
 
 ## 代码
 
