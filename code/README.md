@@ -185,3 +185,9 @@
 * [SP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/SP.java)
 * [TestSP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter4_4_Shortest_Paths/TestSP.java)
 
+### chapter5_3_Substring_Search
+
+* [BoyerMoore.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter5_3_Substring_Search/BoyerMoore.java)
+* [KMP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter5_3_Substring_Search/KMP.java)
+* [RabinKarp.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter5_3_Substring_Search/RabinKarp.java)
+
