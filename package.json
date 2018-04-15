@@ -1,0 +1,22 @@
+{
+  "name": "Algorithms-notes",
+  "version": "1.0.0",
+  "description": "《算法（第4版）》笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preupdate": "cd code && yuki && cd .. && git add docs code README.md",
+    "update": "git commit -m",
+    "postupdate": "git push origin master" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bighuang624/LeetCode-everyday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bighuang624/LeetCode-everyday/issues"
+  },
+  "homepage": "https://github.com/bighuang624/LeetCode-everyday#readme"
+}
