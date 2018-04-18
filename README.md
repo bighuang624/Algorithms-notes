@@ -49,11 +49,17 @@
 
 ### Context
 
-* [《6_背景》](https://github.com/bighuang624/Algorithms-notes/blob/master/docs/Context/6_背景.md)
+* [《6.3_后缀数组》](https://github.com/bighuang624/Algorithms-notes/blob/master/docs/Context/6.3_后缀数组.md)
 
 ## 代码
 
 相关代码详见[代码目录](https://github.com/bighuang624/Algorithms-notes/blob/master/code)
+
+## Cheatsheet
+
+[Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
+
+![Cheatsheet](https://raw.githubusercontent.com/bighuang624/Algorithms-notes/master/Cheatsheet.png)
 
 ## 参考资料
 

@@ -191,3 +191,9 @@
 * [KMP.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter5_3_Substring_Search/KMP.java)
 * [RabinKarp.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter5_3_Substring_Search/RabinKarp.java)
 
+### chapter6_3_Suffix_Arrays
+
+* [KWIC.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter6_3_Suffix_Arrays/KWIC.java)
+* [LRS.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter6_3_Suffix_Arrays/LRS.java)
+* [SuffixArray.java](https://github.com/bighuang624/Algorithms-notes/blob/master/code/chapter6_3_Suffix_Arrays/SuffixArray.java)
+
