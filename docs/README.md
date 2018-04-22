@@ -3,7 +3,7 @@
 <p align="center"><a href="http://kyonhuang.top"><img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-KyonHuang-7AD6FD.svg"></a></p>
 
 <div style="text-align: center; width: 100%;">
-<img alt="" src="https://upload-images.jianshu.io/upload_images/2702529-ba5800799763d197.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="display: inline-block; width: 60%;" />
+<img alt="" src="https://upload-images.jianshu.io/upload_images/2702529-ba5800799763d197.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" style="display: inline-block; height: 180px" />
 </div>
 
 ### Github

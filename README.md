@@ -50,6 +50,9 @@
 ### Context
 
 * [《6.3_后缀数组》](https://github.com/bighuang624/Algorithms-notes/blob/master/docs/Context/6.3_后缀数组.md)
+* [《6.4_网络流算法》](https://github.com/bighuang624/Algorithms-notes/blob/master/docs/Context/6.4_网络流算法.md)
+* [《6.5_问题规约》](https://github.com/bighuang624/Algorithms-notes/blob/master/docs/Context/6.5_问题规约.md)
+* [《6.6_不可解性》](https://github.com/bighuang624/Algorithms-notes/blob/master/docs/Context/6.6_不可解性.md)
 
 ## 代码
 
